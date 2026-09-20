@@ -1,0 +1,1 @@
+I used OpenAI’s ChatGPT as a learning and coding aid to clarify bandit algorithms, discuss my results, and assist with code for the implementation, statistics, regret calculations, and file exports. I referred to the course materials to evaluate the algorithm choice.

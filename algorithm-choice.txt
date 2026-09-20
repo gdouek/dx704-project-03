@@ -1,0 +1,1 @@
+I chose epsilon-greedy because it handles the observed nonbinary rewards above 1 without a distributional assumption, unlike Beta-Bernoulli Thompson sampling, which requires binary rewards, UCB1, which requires [0,1] rewards or a known bound for scaling, and UCB1-NORMAL, which assumes normally distributed rewards.
